@@ -1,2 +1,2 @@
-# BlogIA
-BlogIA trabajo practico
+# bloginteligenciaartificial
+blog sobre inteligencias artificiales
